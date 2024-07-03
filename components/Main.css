@@ -1,0 +1,77 @@
+
+.out_fits{
+    background: var(--USE, linear-gradient(90deg, rgb(228, 152, 39) 0%, #521D82 100%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }
+.explorebtn{
+    font-size: 20px;
+    font-weight: 300;
+    padding: 7px 15px;
+border-radius: 5px;
+background: linear-gradient(95deg, #521D82 3.55%, #89347C 100%);
+}
+.createbtn{
+    background: linear-gradient(95deg, #7400DB 10.95%, #D922BD 54.25%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 7px 15px;
+    font-size: 20px;
+    border-radius: 5px;
+border: 4px solid #521D82;
+}
+.agency{
+    font-family: Agency FB;
+}
+.time{
+    color: #FFF;
+  font-family: Poppins;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.artwork{
+  background: var(--USE, linear-gradient(90deg, #d41cb9 0%, #451670 40%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.img2{
+    border-radius: 5px;
+background: linear-gradient(132deg, rgba(246, 199, 2, 0.43) 0%, rgba(144, 99, 184, 0.15) 98.58%);
+}
+
+.artwork1{
+    border: 2px solid rgba(217, 217, 217, 0.18);
+    width: 800px;
+}
+
+.rectangle1{
+  background-image: url('./rectangle1.png');
+  background-repeat: no-repeat;
+  margin-left: 850px;
+}
+
+.nftmarket{
+  background: var(--USE, linear-gradient(90deg, #451670 0%, #d41cb9 60%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.btn{
+  background: linear-gradient(95deg, #7400DB 10.95%, #D922BD 54.25%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-radius: 5px;
+border: 4px solid #521D82;
+}
+.img5{
+  width: auto;
+  height: 368px;
+}
